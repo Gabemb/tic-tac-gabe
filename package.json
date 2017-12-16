@@ -1,0 +1,19 @@
+{
+  "name": "tic-tac-gabe",
+  "version": "1.0.0",
+  "description": "A silly little tic-tac-toe game",
+  "main": "game.js",
+  "scripts": {
+    "start": "node game.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabemb/tic-tac-gabe.git"
+  },
+  "author": "Gabriel Barriga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gabemb/tic-tac-gabe/issues"
+  },
+  "homepage": "https://github.com/Gabemb/tic-tac-gabe#readme"
+}
